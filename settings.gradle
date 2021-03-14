@@ -1,0 +1,6 @@
+include ':PaintTool'
+include ':EditTool'
+include ':PaintToolLibrary'
+include ':PaintTool'
+include ':app'
+rootProject.name = "Paint Tool"

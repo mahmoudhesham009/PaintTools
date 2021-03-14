@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.target.edittool">
+
+    <application>
+        <activity android:name=".EditActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"/>
+    </application>
+</manifest>
