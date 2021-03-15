@@ -26,7 +26,7 @@ allprojects {
 Then add this impelementation to your build.gradle(Module) file
 ```
 dependencies {
-            //for Edit tool
+            	//for Edit tool
 	        implementation 'com.github.mahmoudhesham009.PaintTools:EditTool:0.1.0'
 	        //for Paint tool
 	        implementation 'com.github.mahmoudhesham009.PaintTools:PaintTool:0.1.0'
@@ -72,7 +72,7 @@ to get your edit result add thit to your activity:
         switch (resultCode) {
             case PaintTool.DRAW_RESULT:
                 //your bitmap result
-                Bitmap bmp = Edit.getDrawResult(data);
+                Bitmap bmp = EditTool.getDrawResult(data);
                 imageView.setImageBitmap(bmp);
                 break;
         }
