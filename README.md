@@ -70,7 +70,7 @@ to get your edit result add thit to your activity:
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         switch (resultCode) {
-            case PaintTool.DRAW_RESULT:
+            case EditTool.DRAW_RESULT:
                 //your bitmap result
                 Bitmap bmp = EditTool.getDrawResult(data);
                 imageView.setImageBitmap(bmp);
