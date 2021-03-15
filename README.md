@@ -1,7 +1,7 @@
 # Paint Tools
 #### _Android 3rd party library to make implementing Photo editor and painter more easier_
 
-I made this library to make it easier for developers to implement a photo editor and painter more ease, e.g. you can use it to make user adit his photo before sending it in chatting app, or since it is opensource you can enhance it and build your paint application. 
+I made this library to make it easier for developers to implement a photo editor and painter, e.g. you can use it to make your user adit his photo before sending it in chatting app, or since it is opensource you can enhance it and build your own paint application. 
 
 
 
