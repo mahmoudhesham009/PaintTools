@@ -27,9 +27,9 @@ Then add this impelementation to your build.gradle(Module) file
 ```
 dependencies {
             	//for Edit tool
-	        implementation 'com.github.mahmoudhesham009.PaintTools:EditTool:0.1.0'
+	        implementation 'com.github.mahmoudhesham009.PaintTools:EditTool:0.1.1'
 	        //for Paint tool
-	        implementation 'com.github.mahmoudhesham009.PaintTools:PaintTool:0.1.0'
+	        implementation 'com.github.mahmoudhesham009.PaintTools:PaintTool:0.1.1'
 	}
 ```
 
