@@ -9,7 +9,7 @@ import android.net.Uri;
 import java.net.URL;
 
 public class EditTool {
-    public static final int DRAW_RESULT = 645;
+    public static final int DRAW_RESULT = 646;
     private int mToolBarColor= android.R.color.darker_gray;
     private String mTitle="Paint Tool";
     private Uri mImage;
